@@ -1,0 +1,6 @@
+Title: Sign up screen
+Text: Overall layout:
+The image shows a sign up screen with a clean and modern design. The overall layout is divided into two parts: a sign up form on the right side and a black and white cat on the left side. The cat is sitting in a cardboard box with the words "Send your cat to Mars" written on it. This creates a playful and engaging atmosphere for the sign up screen.
+Sign up form:
+The sign up form is simple and straightforward. It has two input fields: email and password The input fields are clearly labeled and have light gray placeholder text. There is also a "Sign Up" button and a link to the terms and conditions.
+Overall, the sign up screen is well-designed and easy to use. The cat image adds a touch of whimsy and makes the screen more visually appealing.

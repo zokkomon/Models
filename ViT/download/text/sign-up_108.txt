@@ -1,0 +1,6 @@
+Title: Sign-Up
+Text: Background: The background of the image is a photo of a hot air balloon at sunrise.
+Form: The sign-up form is a purple rectangle placed in the center of the image.
+Text: The text on the form is white and reads “Create your account” and “Already a member? Sign in”. The font used is sans-serif.
+Fields: There are three fields for the user to fill in: email, username, and password. The input fields are white with black sans-serif font.
+Sign-Up Button: At the bottom of the form is an orange button labeled “Sign Up” with white sans-serif font.

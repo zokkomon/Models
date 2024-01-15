@@ -1,0 +1,3 @@
+Title: app screen
+Text: Overall layout: The image consists of a mobile phone screen displaying a live streaming app. The app has a dark theme with a pink accent color. The live stream being displayed is of a sunset over a body of water. The phone is set against a pink and gray background.
+App layout: The app layout is divided into two main sections. The top section is displaying the live stream, while the bottom section features a chat function and a “watch live” button. There is also a user name and profile picture visible on the app.

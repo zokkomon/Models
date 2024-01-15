@@ -1,0 +1,7 @@
+Title: Register
+Text: Title: The form is titled “Register”, displayed in gray, cursive font against a dark grey background at the top center.
+Input Fields: There are three lighter grey rectangular input fields with white labels for entering “Username”, “Password”, and “E-Mail Address”. The labels are inside the input fields in a light gray, sans-serif font.
+Checkbox: There’s a checkbox option labeled “Accept rules and conditions” in white text.
+Buttons: At the bottom of the form, there’s a green rectangular button with rounded corners labeled “Register” in white capital letters. Below this button, there’s smaller white text that reads “Already have an account?”
+Color and Font Styles: The image uses a simple and clean color scheme with black, green, and grey as the primary colors. The font used is modern and easy to read, with important headings in bold for emphasis.
+Placement: The title is placed at the top, followed by the input fields. The “Register” button and “Already have an account?” link are placed at the bottom.

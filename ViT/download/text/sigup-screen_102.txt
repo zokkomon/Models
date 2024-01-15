@@ -1,0 +1,9 @@
+Title: Sigup screen
+Text: Overall, the image features an screen frame at the center, with a signup screen displayed on it. The image has a backgrond image of sea wave.
+The signup screen showcases a black background and dark them is used and primary color blue.
+signup screen starts from top and center horizontally with user avatar picker which has white background and made up of rouned placeholder image of default avatar user image of star war robot head. and its decorated with a rouned button with 'add' white icon and primary blue color on top left of the avatar picker
+followed by next line contains underlined text field with gray label "NAME" and white input value "TK-421"
+followed by next line contains underlined text field with gray label "EMAIL" and white input value "storm@darkside.net"
+followed by next line contains underlined text field with gray label "PASSWORD" and white input value of dotted masked password
+followed by on next line contained a button labeled "Sign Up" with white text color and primary blue background.
+followed by on next line contains two text in a row "ALREADY PART OF THE DARK SIDE?" with white gray color and "SIGN IN" in white

@@ -1,0 +1,8 @@
+Title: SignUp
+Text: forms starts with heading text "Review & Submit" and below the text add new paragraph color black. and right corner cancel icon
+overall layout: The image consists of two main layouts. The first layout predominantly features a striking combination of Gray colors, creating a visually appealing and vibrant design. In the second layout, there is a , which likely provides a space for users to input their credentials and access a particular service or website. The contrast between the bold colors in the first layout and the functional elements in the second layout suggests a balanced and user-friendly design approach.
+Following the gray horizontal line, there are three input fields and a button:
+In the first input field, there is a user and placeholder text that says "What Is your Name?" and this placeholder text is in varying shades of gray . Below the placeholder text, there is horizontal line with varying shades of gray.
+In the second input field, there is a email and placeholder text that says "What Is Your email address?" and this placeholder text is in varying shades of gray . Below the placeholder text, there is horizontal line with varying shades of gray.
+In the third input field, there is a Password and placeholder text that says "Create a Password" and this placeholder text is in varying shades of gray. Below the placeholder text, there is horizontal line with varying shades of gray.
+below the all content under gap 150px unseeing a sign Up button, and button is middle Aline and some box-shadow background color green

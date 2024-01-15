@@ -1,0 +1,10 @@
+Title: Signup page
+Text: The image user interface for a login or sign-up page, with a focus on automotive elements.
+Background: The top left corner features an image of a red car on snowy terrain, suggesting an automotive theme.
+Main Panel: A dark grey panel with a black and white color scheme dominates the interface.
+Titles: “SIGN UP” and “LOG IN” are prominently displayed in bold white font at the top center of the panel.
+Input Fields: There are fields for “USERNAME” and “PASSWORD”, both labeled in capital white letters. The username “Scale Gong” is entered in grey text.
+User Agreement: Below the password field, there’s a red circle with a check mark next to “User Agreement”, indicating agreement.
+Action Button: A rectangular button labeled “Start Engine” is situated at the bottom right, featuring bold white text against a bright red background.
+Close Button: An ‘X’ in the top right corner of the panel likely serves as a close button.
+The design utilizes a modern and sleek style, with the use of bold fonts for important actions and a contrasting color palette to draw attention to key elements like the “Start Engine” button. The overall layout is clean and focused, with content centrally located for ease of use.

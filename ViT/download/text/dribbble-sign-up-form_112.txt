@@ -1,0 +1,11 @@
+Title: Dribbble sign up form
+Text: overall layout: The image has two layouts. The first layout is in white and light pink linear gradient color. The second layout is a sign-up form.
+form: The form has a white background. At the top of the form, there is a Dribbble icon, and below the icon, there is a 'Welcome!' text in pink color. Below the welcome text, there is 'You're going to sign up for Dribbble' text in light black color.Underneath these texts, there are four input fields. After the input fields, at the bottom of the form, there is a 'Sign Up' button and a 'Sign Up with Twitter' button. The text color of the 'Sign Up' button is white, and the background color is pink. The text color of the 'Sign Up with Twitter' button is white, and the background color is light blue.
+input field:
+First input: "First Name"
+Second input: "Last Name"
+Third input: "Email"
+Fourth input: "Password"
+For all inputs:
+Placeholder color is light gray.
+There is a light gray line below each input.

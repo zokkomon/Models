@@ -1,0 +1,6 @@
+Title: Sign-Up
+Text: Form Background: The form is in a blue-grey color with white text.
+Form Fields: The form has three fields: username, auth code, and password. The fields are in a white color with a grey border.
+Sign-up Button: The form has a blue button that reads “sign up”.
+Font: The form uses a sans-serif font with black text.
+Background: The form is placed on a dark blue-grey background.

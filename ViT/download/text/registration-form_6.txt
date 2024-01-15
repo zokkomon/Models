@@ -1,0 +1,5 @@
+Title: Registration form
+Text: Overall Layout: The image consists of a registration form on a light blue background. The form is in a white box with a drop shadow.
+Form: The form has six input fields: “Username”, “Email address”, “Password”, “Confirm password”, “Gender”, and “Last name”. Below each input field, there is a gray-colored line.
+There is one button in the form, “Submit”, with blue text, a transparent background, and a blue border.
+Above the form, there is the text “Registration form” in black color. Below the form, there are two checkboxes: “I agree to the Terms of Service” and “I want to receive news and special offers”.

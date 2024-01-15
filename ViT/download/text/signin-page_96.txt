@@ -1,0 +1,11 @@
+Title: Signin page
+Text: The image is a 3D rendering of a mobile login screen interface. Here’s a detailed description:
+Top Bar: The top bar is black with white text displaying “9:41 PM” and “74%”, indicating the time and battery level.
+Header: The header contains the word “LOGIN” in white capital letters, centered on a gradient background transitioning from purple to blue.
+Weather Icon: There’s a circular icon with a cloud and sun illustration in white, set against a turquoise background, with “24°” in white text to the side.
+Input Fields: Two input fields for “Username” and “Forgot Password?” are present, with dark purple backgrounds and placeholder texts in lighter shades of purple.
+Checkbox Option: Below the input fields is a checkbox option labeled “Remember Me” in white text.
+Buttons:
+SIGN IN: A turquoise rectangular button with “SIGN IN” in white bold text.
+SIGN UP: Below the SIGN IN button, there’s another option labeled “SIGN UP” in smaller white text.
+The interface design is modern and user-friendly, with a clean layout and a color palette that uses contrast effectively to highlight important elements like the SIGN IN button. The use of bold and capital letters for key actions enhances readability and guides the user’s attention.

@@ -1,0 +1,3 @@
+Title: sign up form
+Text: Overall layout: In the image, there are two layouts. The first layout has a linear gradient of light green, white, and light red colors. The second layout contains a sign-up form with the text 'Sign Up' at the top in white color
+Form: The background color of the form is white, and the top border of the form is light pink. Inside the form, there are three input fields: the first input is for 'Full Name,' the second input is for 'Email,' and the third input is for 'Password.' There is also a red-colored 'Sign Up' button, and below the button, there is a text that says 'Already have an account? Sign In' in green and red colors.

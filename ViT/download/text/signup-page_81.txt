@@ -1,0 +1,12 @@
+Title: Signup page
+Text: The image is a screenshot of a sign-up and login interface for a website or app, featuring a playful design with light colors.
+Illustrative Section (Left Side):
+Background: Light pink with a smiling planet illustration surrounded by stars and comets.
+Text: “Welcome to our planet” in bold black font, followed by smaller text inviting users to sign up or log in.
+Buttons: Two buttons labeled “Sign In” (outlined) and “Sign Up” (blue background) with white text.
+Interactive Form (Right Side):
+Background: White, providing contrast to the left section.
+Input Fields: Labeled “FULL NAME,” “PASSWORD,” and “EMAIL” in grey capital letters above their respective entry fields.
+Checkbox: An option to agree with the terms, represented by a checkbox followed by small grey text.
+Sign Up Button: Blue, matching the “Sign Up” button on the left, with the text “I am already Member” in grey below it.
+The design is user-friendly, with a clear distinction between the welcoming illustrative section and the interactive sign-up form. The use of light and playful elements creates a welcoming atmosphere, while the structured layout of the form ensures ease of use. The color palette is soft, with pops of blue to draw attention to the main actions. The overall presentation is clean and inviting, encouraging user interaction.

@@ -1,0 +1,5 @@
+Title: Sign-Up
+Text: Form Background: The form is in a light grey color with a white background.
+Form Fields: The form has three fields: full name, email address, and password. The fields are in a white color with a grey border.
+Font: The form uses a sans-serif font with black text.
+Form Placement: The form is centered on the page.

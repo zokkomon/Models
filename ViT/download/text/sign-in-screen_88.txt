@@ -1,0 +1,3 @@
+Title: sign in screen
+Text: overall layout: The image consists of two layouts. The first layout features a blurred image of a beach and the ocean. The 'Sign In' form is positioned at the center of the image.
+form: The form has an ocean image with a green background. Inside the form, there are two input fields. The first input field is for 'Username,' and the second input field is for 'Password.' Below both input fields, there is an underline. Beneath the input fields, there is a 'Sign In' button with a combination of green and blue colors. At the very bottom, there's a text that says 'Don't have an account? Sign Up

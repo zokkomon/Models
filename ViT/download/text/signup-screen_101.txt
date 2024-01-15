@@ -1,0 +1,8 @@
+Title: Signup Screen
+Text: Overall, the image features an screen frame at the center, with a signup screen displayed on it. The image has backgrond color dark purple.
+The signup screen showcases a light theme and signup frame backround color white
+signup screen starts with heading "SIGN UP" center horizontally in frame, and this heading has extra large letter spacing,
+followed by next line contains a light gray horizontal divier.
+followed by next line has a outlined light gray filled text field with label "Name" on top of the text field.
+followed by next line has a outlined light gray filled text field with label "Email" on top of the text field.
+followed by next line contains a violet contained button with label "REGISTER" in white, label also has background in circular shape that is dark purple.

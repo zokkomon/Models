@@ -1,0 +1,5 @@
+Title: Registration Form
+Text: Overall Layout: The image consists of a registration form on a light blue background. The form is in a white box.
+Form: The form has three input fields. The first input field is for ‘Username,’ the second input field is for ‘e-mail,’ and the third input field is for ‘Password.’ Below each input, there is a gray-colored line.
+There is one button in the form. The button is for ‘Register,’ and it has blue text, a transparent background, and a blue border.
+Above the form, there is the text ‘A lightweight and simple sign-up form’ in gray color.

@@ -1,0 +1,9 @@
+Title: Sign Up Screen
+Text: Overall layout: There are two layouts in the image. In the first layout, the background color is green. In the second layout, it's a sign-up screen placed in the center of the image. The sign-up screen has a white background with black text.
+On the left side of the sign-up screen, there is a sign-up form, while on the right side, there is a 'Next' button. The 'Next' button has a blue background with white text. Below the 'Next' button, there is a white arrow, and beneath it, there is text that says 'Already have an account? Log In.' The text 'Already have an account?' is in black, while 'Log In' is in blue.
+In the top-right corner of the sign-up screen, there is a black cross.
+sign up form: At the top of the sign-up form, there is the text 'Sign Up,' and below it, there are four input fields.
+In the first input field has a placeholder 'user name,', and below it, there is a horizontal line.
+In the second input field has a placeholder 'email,', and below it, there is a horizontal line.
+In the third input field, there are 10 dots, indicating a password, and below it, there is a horizontal line. To the right of this field, there is text that says 'Show Password' in light gray color.
+The fourth input field has a placeholder 'Confirm Password,' and below it, there is a horizontal line. To the right of this field, there is text that says 'Show Password' in light gray color.

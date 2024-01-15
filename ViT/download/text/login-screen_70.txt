@@ -1,0 +1,10 @@
+Title: Login Screen
+Text: Overall, the image features an signup screen displayed on it. The image has a backgrond white.
+signup screen starts with 'THINGSER LOG IN' title in green aligned top center of the screen
+followed by next line contains outlined text field with gray placeholder "Email address" input has a leading icon 'mail' in color gray
+followed by next line contains outlined text field with gray placeholder "Password" input has a leading icon 'lock' in color gray
+after this white container there is a row with aligment space between and contains a remember
+me switch with label "Remember me" at starting and forget password text button but at the end with label "Forget Password?"
+followed by next line contains primary green colored contains button with text "LOG IN" in white
+followed by a row which has a text "Or log in with" in dark gray followed, facebook twitter and google rounded login button respectively
+follwed by next line contains a row which has text "Don't have an account? Sign up" and a text button with text "Sign up"

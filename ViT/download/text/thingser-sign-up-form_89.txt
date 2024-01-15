@@ -1,0 +1,11 @@
+Title: thingser sign up form
+Text: title: sign in screen
+overall layout: In the center of the image, there is content. At the top, there is a text 'Thingser Sign Up' in green color. Below that, there is a text 'Sign Up With' and to the right of the text, there are icons for Facebook, Twitter, and Google. Beneath that, there is another text 'Or Sign Up With Email.'
+Following this, there are six input fields. Below the input fields, there is the text 'By signing up, I agree to the Terms & Conditions.' Beneath this text, there is a 'Sign Up' button with white text and a green background. At the bottom, there is the text 'Have an account? Log In.
+form input:First input: "First Name" with a user icon.
+Second input: "Last Name" with a user icon.
+Third input: "Username" with a user icon.
+Fourth input: "Email Address" with a mail icon.
+Fifth input: "Password" with a lock icon.
+Sixth input: "Confirm Password" with a lock icon.
+All input boxes are in light black color and are placed below their respective labels.

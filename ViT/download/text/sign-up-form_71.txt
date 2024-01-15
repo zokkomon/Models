@@ -1,0 +1,7 @@
+Title: sign up form
+Text: title: sign up screen
+overall layout: There are two parts in the image. In the first part, there is an image of a rocket, computer, screen, and tower. The color of the image is light blue and yellow. In the second part, there is a form.
+form: At the top of the form, there is a text 'Join with our community' in blue color. Below that, there is the text 'Get unlimited access for research, friends, books, and resources' in black color. Beneath this text, there is an input field with five fields. The first input field, to the left, is for the first name with the text 'Thomas' and a light black underline below it.
+To the right of the first input field, there is the second input field for the last name with the text 'Edison' in black, and beneath it, there is a light black underline.
+Below the first and second input fields, there is the third input field for the email with the text 'thomasedison@gmail.com' and a light black underline below it. Beneath the third input field, there is a password input field with six black dots, and below it, a light black underline. Following that, there is the 'Confirm Password' input field with six black dots and a light black underline below it.
+Under the input fields, there are two buttons. The first button is 'Sign Up' with a light blue background and white text. The second button, 'Login Here,' is to the right of the first button, with light blue text color.

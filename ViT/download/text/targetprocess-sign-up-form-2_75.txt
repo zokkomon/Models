@@ -1,0 +1,15 @@
+Title: Targetprocess sign up form 2
+Text: Overall: The image shows a sign-up page for the website “Targetprocess.” The page is clean and minimalistic, with a white background and simple, easy-to-read black text.
+Signup Form: The signup form is at the center of the screen. It starts with the logo “Targetprocess” at the top left corner, followed by a large heading “Get started” centered horizontally.
+The signup form contents are divided into two sections:
+Personal Info:
+Your name: A text input field labeled “Your name.”
+Country: A dropdown menu labeled “Country,” with “Belarus” currently selected.
+Email: A text input field labeled “Email.”
+How many people would be using Targetprocess?: Below the email field, there are options to select the number of users ranging from “Myself” to “1000.”
+Comments: A larger text input box for additional comments or information.
+Company Info:
+Company name: A text input field labeled “Company name.”
+Code - Phone: Two adjacent fields for entering country code and phone number.
+Number of employees: A text input field for entering the number of employees in the company.
+At the bottom of these fields is a green button labeled “Get started.” Please note that the actual image may differ slightly from this description.

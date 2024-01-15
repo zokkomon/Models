@@ -1,0 +1,10 @@
+Title: login screen
+Text: The image provided features two login screens with a creative and colorful design.
+Background: An orange backdrop sets a vibrant tone for the image.
+Screens: Displayed in a 3D perspective, the screens are colored in purple and teal, adding depth to the design.
+Font Style: The text uses a playful font, which adds a fun and informal touch to the screens.
+Font Colors: The text is in yellow and purple, ensuring visibility against the screen colors.
+Text Content: It reads “Login your dreams”, suggesting a whimsical or aspirational theme.
+Buttons: There are two buttons, one purple and the other teal, labeled “Use my email” and “Use my social profile”, respectively.
+Additional Text: Smaller white text offers options to “I need to register first” and “Help me login”, providing clear navigation for users.
+The overall design is engaging, with a playful use of color and typography that aligns with the imaginative theme of “login your dreams”.

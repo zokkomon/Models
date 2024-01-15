@@ -1,0 +1,10 @@
+Title: Signup screen
+Text: Overall, the image features an screen frame at the center, with a signup screen displayed on it. The image has a backgrond image of sea wave.
+The signup screen showcases a white background.
+signup screen starts with heading "SIGN UP" on top of the screen and center horizontally
+followed by next line contains rouned image of sea wave image
+center horizontally
+followed by next line contains underlined text field with label "Username" and leading icon of user in dark gray color
+followed by next line contains underlined text field with label "Password" and leading icon of lock in dark gray color
+followed by next line contains underlined text field with label "Confirm Password" and leading icon of key in dark gray color
+followed by on next line contained a button labeled "SIGN UP" with white text color and primary green background.

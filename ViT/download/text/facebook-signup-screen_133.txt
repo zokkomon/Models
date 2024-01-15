@@ -1,0 +1,24 @@
+Title: Facebook signup screen
+Text: Left layout (information)
+Position: Top of the screen
+Background color: White
+Items:
+Facebook logo: Center of the screen, above the fold
+Text: Below the fold, centered on the screen
+Book Your Plant: Heading, black text, large font size
+Find the plant you love. Delivered to your door. Subheading, black text, smaller font size
+Sign Up with Facebook: Button, white text, blue background
+Or- separator text: Below the "Sign Up with Facebook" button, centered on the screen, black text, small font size
+Right layout (sign up form)
+Position: Top of the screen
+Background color: White
+Items:
+Email: Text input field, gray placeholder text, white background
+Password: Text input field, gray placeholder text, white background
+Sign Up: Button, white text, green background
+Don't have an account yet? Sign Up: Text link, black text, underlined
+Already have an account? Log In: Text link, black text, underlined
+Overall design:
+The overall design of the page is simple and straightforward. The use of white, green, and blue creates a sense of freshness and vitality. The large green "Sign Up" button on the right side of the page is the main call to action and it is easy to find and tap.
+The typography is also well-chosen. The heading text is large and bold, making it easy to read. The placeholder text in the input fields is smaller and lighter, but it is still easy to read and understand.
+Overall, the page is well-designed and easy to use. The use of white, green, and blue is effective in creating a visually appealing and engaging screen.

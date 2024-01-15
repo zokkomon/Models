@@ -1,0 +1,7 @@
+Title: login screen
+Text: forms starts with heading text "Create Account".
+overall layout: The card color sky.
+Following the red horizontal line, there are three input fields.
+In the first input field, there is a placeholder text that says "First name" and this placeholder text is in varying shades of White
+In the first input field, there is a placeholder text that says "Last name" and this placeholder text is in varying shades of White
+In the first input field, there is a placeholder text that says "Email address" and this placeholder text is in varying shades of White

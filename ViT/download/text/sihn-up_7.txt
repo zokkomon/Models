@@ -1,0 +1,6 @@
+Title: sihn-up
+Text: Title: The form is titled “Sign-up”, displayed in green text at the top center on a green horizontal strip in a standard, sans-serif font.
+Input Fields: There are three white rectangular input fields with gray outlines for entering “Name”, “Mail”, and “Password”. The labels are inside the input fields in a light gray, sans-serif font.
+Checkboxes: Below these fields, there are two checkboxes with small black text next to them. The first checkbox says “Accept the Terms of service” and the second one says “Subscribe to our newsletter!”
+Buttons: A green rectangular button labeled “Submit Query” in white text is placed below the checkboxes. Further down, there are two smaller rectangular buttons for signing up via Facebook or Twitter. The Facebook button is blue with white text, and the Twitter button is light blue with white text.
+Placement: The title is placed at the buttom, followed by the input fields. The “Submit Query” button and “Login” link are placed at the bottom.

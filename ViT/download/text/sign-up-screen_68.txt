@@ -1,0 +1,3 @@
+Title: sign up screen
+Text: overall layout:The image contains two layouts. In the first layout, there are various different sections in colors such as red, blue, green, yellow, and gray. The 'Sign Up' image is positioned at the center.
+form: The background color of the form is white. The first element is the 'Sign Up' text in blue color. Below it, there are logos for Facebook, Google+, and LinkedIn. Further below, there is the text 'Already have an account?' in blue color, underlined. The form has two input fields, with the first one for 'Email' and the second one for 'Password.' At the bottom of the form, there is a 'Create Account' button in blue color.

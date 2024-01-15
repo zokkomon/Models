@@ -1,0 +1,9 @@
+Title: Signup page
+Text: The image is a mobile app login screen with a sign-up option.
+Background: The backdrop is a photo of a person hiking on a mountain, offering a scenic view.
+Color Scheme: The primary colors used are yellow and white, which likely serve to highlight key elements and create a warm, inviting atmosphere.
+Font Style: The text is in a sans-serif typeface, known for its clean and modern appearance.
+Font Color: The font color is black, ensuring good readability against the lighter background.
+Content Placement: The content is centrally aligned, with the “Let’s Go Outside” logo and options to “Sign Up” and “Login” on the left side. and below "sign up for the newsletter for more info" is in white color.
+Sign-Up Form: On the right, there’s a “Sign Up” form with fields for name, email, and password, and below it, an option for users who already have an account to sign in.
+This design emphasizes usability and visual appeal, with a focus on encouraging users to explore the outdoors. The use of imagery, color, and typography creates a cohesive and user-friendly interface.

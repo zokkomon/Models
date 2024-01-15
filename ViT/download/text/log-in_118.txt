@@ -1,0 +1,6 @@
+Title: log in
+Text: Background: The page has a blue gradient background, which gives it a modern and sun set look.
+Login Card: The center of the page features a white card with a logo at the top, presumably the logo of “Viva Las Grutas”. Below the logo, there are two input fields for the user to enter their username and password.
+Social Media Login Options: Below the input fields, there are options to log in using social media accounts. This is a common feature that allows users to log in quickly using their existing social media credentials.
+Forgot Password Link: There is a link for users who have forgotten their password. This is a standard feature on login pages, providing users with a way to recover their account.
+Terms and Conditions Link: At the bottom of the page, there is a link to the terms and conditions. This is important as it provides users with information about the rules and regulations associated with using the website.

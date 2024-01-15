@@ -1,0 +1,6 @@
+Title: Sign-Up
+Text: The image appears to be a sign-up form for a website or application
+Background: The form is on a grey background.
+Form: The form itself is white and is centered on the page.
+Fields: There are three fields for the user to fill in: email, password, and to confirm their password. The font used for the field labels and the text inside the fields is sans-serif and the font color is black.
+Sign-Up Button: Below the fields is a green button labeled “Create My Account”. The button text is also in a sans-serif font and the font color is white.

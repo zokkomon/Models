@@ -1,0 +1,16 @@
+Title: Signup Screen
+Text: Overall layout:
+The overall image consists of a single mobile frame with a sign up screen. The layout screen has a background color of varying shades of white. The background image contains a yellow semi-circle shape on the top right of the screen and on the bottom left of the background image.
+Background image:
+The background image is a simple yellow semi-circle shape on the top right and bottom left of the screen. It is semi-transparent, so the white background color of the layout screen is still visible through it. The yellow semi-circle shapes add a touch of whimsy and playfulness to the design.
+Content in mobile frame from top to bottom:
+9:41: A time stamp in the top left corner of the screen. It is black text on a white background.
+Hello!: A greeting text at the top of the screen in the center. It is large and bold, making it easy to read. It is black text on a white background.
+Please create an account to continue: A subheading text below the greeting text in the center. It is smaller and lighter than the greeting text, but it is still easy to read. It is black text on a white background.
+Sign up form: A sign up form in the center of the screen. It has a red border and a white background. The form contains the following fields:
+Full Name: A text input field for the user to enter their full name. It has a placeholder text that says "Enter your full name here". The placeholder text is gray and the text input field is white.
+Email: A text input field for the user to enter their email address. It has a placeholder text that says "Enter your email address here". The placeholder text is gray and the text input field is white.
+Password: A text input field for the user to enter their password. It has a placeholder text that says "Enter your password here". The placeholder text is gray and the text input field is white.
+Confirm Password: A text input field for the user to confirm their password. It has a placeholder text that says "Confirm your password here". The placeholder text is gray and the text input field is white.
+Sign up button: A button below the sign up form. It has the text "SIGN UP" in white and a red background.
+Already have an account? Log in: A text link below the sign up button. It has the text "Already have an account? Log in" in black and it is underlined.

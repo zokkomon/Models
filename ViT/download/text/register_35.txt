@@ -1,0 +1,6 @@
+Title: Register
+Text: Title: The form is titled “REGISTRATION”, displayed in bold, white letters on a dark grey rectangular background at the top of the form.
+Input Fields: There are three white rectangular fields with rounded corners for entering “First Name”, “E-mail”, and to “Confirm your E-mail”. Each field has a placeholder text in grey color indicating its purpose. The font used for these texts is sans-serif, ensuring readability.
+Button: At the bottom of the form, there’s a “Register” button in dark grey with white sans-serif font that matches the style of the title.
+Color and Font Styles: The image uses a simple and clean color scheme with white, black, and grey as the primary colors. The font used is modern and easy to read, with important headings in bold for emphasis.
+Placement: The title is placed at the top, followed by the input fields. The “Register” button is placed at the bottom.

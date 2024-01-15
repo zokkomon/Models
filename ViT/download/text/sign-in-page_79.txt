@@ -1,0 +1,14 @@
+Title: sign-in page
+Text: The image provided showcases two sections of a user interface for a mobile application, with a login panel on the left and an equipment listing on the right. Here’s a detailed description:
+Left Section (Login Panel):
+Background: Dark grey.
+Logo: Square with rounded corners, blue background, white stylized facial features.
+Input Fields: “Username” and “Password”, white outlines and text.
+Sign In Button: Blue, below the password field.
+Sign Up Text: “Don’t have an account? Sign up”, in white at the bottom.
+Right Section (Equipment Listing):
+Background: White.
+Header: “Equipment” in black text, with notification and new item icons.
+Icons: Various household equipment like Thermometer, Light, Washing Machine, etc., each with grey labels.
+Navigation Bar: Icons labeled Home, Equipment, Scene, and My at the bottom.
+The design contrasts a dark login panel with a light equipment listing, using color to differentiate between sections and functions. The interface is modern and user-friendly, with clear labels and icons for easy navigation. The overall aesthetic is sleek and functional, suitable for a smart home application.

@@ -1,0 +1,4 @@
+Title: Log In Screen
+Text: overall layout: The image has two layouts. The first layout has a white and yellow linear gradient color, and the second layout contains a log-in form.
+form: The form has a background color that transitions from green at the top to white at the bottom. At the top of the form, there is a separate image in white and dark green colors. Below this image, there are two input fields. The first input field is for 'Username,' and the second input field is for 'Password.' There is a light black line below both input fields, and the text color is also light black.
+To the right of the 'Password' input field, there is a 'Forget?' button, and below the input fields, there is a 'Log In' button. The text color of the buttons is white, and the background color is green.
