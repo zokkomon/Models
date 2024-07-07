@@ -1,0 +1,6 @@
+Title: Login-Screen
+Text: Overall layout: The image consists of two main layouts. The first layout deep white colors, creating a visually appealing and vibrant design. In the second layout, there is a login form, which likely provides a space for users to input their credentials and access a particular service or website. The contrast between the bold colors in the first layout and the functional elements in the second layout suggests a balanced and user-friendly design approach.
+login form: The log-in form has a white background, and at the center of the form, there is two input felled,
+1st one is enter user name and 2nd one is enter password and include forgot? potion below the input felled using or and 2 line bar in or left side and or right side
+below the or text login with fakebook button and button color is blue
+and below the button horizontal line color is red

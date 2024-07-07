@@ -1,0 +1,4 @@
+Title: Registration Form
+Text: Overall Layout: The image displays two mobile devices showcasing different screens of a mobile application. The phones are placed against a light background.
+Phone 1: The phone on the left is displaying a registration page with fields for phone, username, and email address. There’s also a “REGISTER” button at the bottom. Above the registration form on this phone, there’s a blue section with an icon of an atom and text that reads “WELCOME to lucid”.
+Phone 2: The smartphone on the right is showing a planner interface with a circular progress bar at the top and text below it. On this planner interface, there are texts indicating tasks or steps to be completed as part of the planning process.

@@ -1,0 +1,7 @@
+Title: Sign up Screen
+Text: overall layout: In the image, there are three layouts. In the first one, there is a mountain, a lake, and a sky with blue and orange colors in the background. In the center of the image is the second layout, which has a light black background. On the right side of the second layout, there is white text that says 'Have an account?' below which there are words in white that read 'Banjo,' 'Tote Bag,' 'Bicycle Rights,' 'High Life,' 'Sartorial,' 'Cray Craft Beer,' 'Whatever,' 'Street Art,' and 'Fap.' Below these words is a login button with a transparent background and white text and borders. On the left side of the second layout, there is a sign-up form.
+sign up form: The sign-up form has a white background, and at the top left, there is the text 'Sign Up' in light orange color with capital letters. Below this text, there are three input fields:
+The first input field has a placeholder 'Full Name' with a user icon on the right side, and below it, there is a light gray horizontal line.
+The second input field has a placeholder 'Email' with a mail icon on the right side, and below it, there is a light gray horizontal line.
+The third input field has a placeholder 'Password' with a lock icon on the right side. Above the input field on the left side, there is a round shape with a light gray border and a transparent background.
+At the bottom right of the sign-up form, there is a 'Sign Up' button with a light orange background and white text color.

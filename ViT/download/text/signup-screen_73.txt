@@ -1,0 +1,14 @@
+Title: Signup screen
+Text: overall: The image shows a sign up website page. The page is pink and white. The sign up form is simple and straightforward, and it only requires users to provide their email address and password to create an account.
+signup form:
+The sign up form is the center of the screen.
+signup form starts with pink colored "right arrow" icon center horizontally,
+followed horizontal line
+followed by large heading "SIGNAPP" center horizontally and font has large letter spacing.
+The sign up form contents are as follows:
+Email: A text input field. The text "EMAIL" is above the field as label. and input value is "DENISHUS@YANDEX.RU"
+Password:
+A password type input field. The text "PASSWORD" is above the field as label. and input value is shows as dots, which is also feature secure entry. it has a pink toggle button with eye icon to enable disable that secure entry feature on right side of password value.
+Sign up button:
+A pink button with white text that says "SIGN UP".
+Social Media Login: below signup there social media login options, its contains two icon button first one is facebook second is twitter in a row. social button shape if rounded from top start and top end.

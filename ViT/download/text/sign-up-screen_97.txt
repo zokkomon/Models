@@ -1,0 +1,21 @@
+Title: sign up screen
+Text: overall layout: The image has two layouts. The first layout is in white color, and on the upper right side, there is a blue-colored image of a bridge. The bridge is set against a blue linear background. In the second layout, there is a sign-up form.
+form: In the sign-up form, on the left side, there is a column with the text 'Sign Up.' The text color is white, and the background is set against the blue linear background above the image of the bridge. In the sign-up form, there are three input fields and a submit button. The button's text color is cerulean blue, the border color is the same as the text color, and the background is transparent. Below the button, there is the text 'Already have an account? Sign In.' The text color is shaded black, and the 'Sign In' text color is cerulean blue, with text decoration underline.
+form inputs:
+First input field:
+Label: "Full Name"
+Label color: Cerulean Blue
+Placeholder: [No information provided]
+Second input field:
+Label: "Email Address"
+Label color: Cerulean Blue
+Placeholder: [No information provided]
+Third input field:
+Label: "Password"
+Label color: Cerulean Blue
+Placeholder: [No information provided]
+Below the input fields, there is a horizontal line in gray color.
+Default values within the input fields:
+Full Name input: "James Bond" in black color
+Email Address input: "my@gmail.com" in black color
+Password input: Twelve dots in black color.

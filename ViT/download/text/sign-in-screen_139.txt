@@ -1,0 +1,8 @@
+Title: Sign in screen
+Text: overall layout: overall image consists of single sign up layout, which consist of form in the middle and whole screen has background color of varying shades of black
+form: In the center part, there is a sign-up form. The background color of the form is red. All the items inside form is aligned horizontally. form has vertical box colored with varying shades of white with very medium width.
+Following the horizontal line, there are three input fields and a button:
+In the first input field, user icon there is a placeholder text that says "user name" and this placeholder text is in varying shades of grey. Below the placeholder text, there using box shadow sha varying shades of black.
+In the first input field, user icon there is a placeholder text that says "password" and this placeholder text is in varying shades of grey. Below the placeholder text, there using box shadow sha varying shades of black.
+Below that, there is a sign up button with icon with color white, Following that,
+Below that, there is a text "Sign in ", just after this text there is an Text Underlined with text "forgot password"

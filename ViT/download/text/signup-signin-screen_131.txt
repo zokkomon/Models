@@ -1,0 +1,32 @@
+Title: Signup Signin screen
+Text: The image shows two mobile screens side-by-side: a log in screen on the left and a sign up screen on the right.
+Login screen
+Layout: The login screen has a solid white background.
+Background image: There is no background image.
+Content:
+9:43: A time stamp in the top left corner of the screen. It is black text on a white background.
+Book Your Plant: A heading text at the top of the screen in the center. It is large and bold, making it easy to read. It is black text on a white background.
+Welcome back! A subheading text below the heading text in the center. It is smaller and lighter than the heading text, but it is still easy to read. It is black text on a white background.
+Email: A text input field below the subheading text. It has a placeholder text that says "Enter your email address here". The placeholder text is gray and the text input field is white.
+Password: A text input field below the email text input field. It has a placeholder text that says "Enter your password here". The placeholder text is gray and the text input field is white.
+Log In: A button below the password text input field. It has the text "LOG IN" in white and a green background.
+Forgot your password? A text link below the "Log In" button. It has the text "Forgot your password?" in black and it is underlined.
+Don't have an account yet? Sign Up: A text link below the "Forgot your password?" text link. It has the text "Don't have an account yet? Sign Up" in black and it is underlined.
+Sign up screen
+Layout: The sign up screen has a solid white background.
+Background image: There is no background image.
+Content:
+9:42: A time stamp in the top left corner of the screen. It is black text on a white background.
+Book Your Plant: A heading text at the top of the screen in the center. It is large and bold, making it easy to read. It is black text on a white background.
+Find the plant you love. Delivered to your door. A subheading text below the heading text in the center. It is smaller and lighter than the heading text, but it is still easy to read. It is black text on a white background.
+Sign Up with Facebook: A button below the subheading text. It has the text "Sign Up with Facebook" in white and a blue background.
+Or-: A separator text below the "Sign Up with Facebook" button. It is black text on a white background.
+Email: A text input field below the separator text. It has a placeholder text that says "Enter your email address here". The placeholder text is gray and the text input field is white.
+Password: A text input field below the email text input field. It has a placeholder text that says "Enter your password here". The placeholder text is gray and the text input field is white.
+Sign Up: A button below the password text input field. It has the text "SIGN UP" in white and a green background.
+Don't have an account yet? Sign Up: A text link below the "Sign Up" button. It has the text "Don't have an account yet? Sign Up" in black and it is underlined.
+Already have an account? Log In: A text link below the "Don't have an account yet? Sign Up" text link. It has the text "Already have an account? Log In" in black and it is underlined.
+Overall design:
+The overall design of both sign up and log in screens is simple and straightforward. The use of white and green creates a sense of freshness and vitality. The large green buttons on both screens are the main calls to action and they are easy to find and tap.
+The typography is also well-chosen. The heading text is large and bold, making it easy to read. The placeholder text in the input fields is smaller and lighter, but it is still easy to read and understand.
+Overall, both sign up and log in screens are well-designed and easy to use. The use of white and green is effective in creating a visually appealing and engaging screen.

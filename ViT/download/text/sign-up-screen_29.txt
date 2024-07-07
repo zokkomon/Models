@@ -1,0 +1,3 @@
+Title: Sign up Screen
+Text: Overall Layout: The image is a screenshot of a “Sign Up” form on a website. The background is light with a subtle pattern, and the form is centrally aligned with a white background.
+Form: The form has four input fields labeled “Your username,” “Your email,” “Your password,” and “Please confirm your password.” Placeholder texts are present in each field. Above the fields, there’s a bold, green-colored “SIGN UP” heading. A green “SIGN UP” button is below the fields. At the bottom, there’s smaller text that reads “Already a member?” followed by a green “Go and log in” link.

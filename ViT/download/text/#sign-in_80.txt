@@ -1,0 +1,10 @@
+Title: #sign in
+Text: The image is a login screen on a mobile device, featuring a sleek design with a purple and blue color scheme.
+Status Bar: Located at the top left corner, displaying white icons for cellular signal, Wi-Fi, and battery life, along with the time “4:27 PM”.
+User Icon: A white silhouette of a person inside a circle, placed above the main content area.
+Main Content:
+Heading: “Already a Member?” in bold white letters, followed by “Sign in to your account” in lighter purple font.
+Input Fields: Two fields for “Email or Username” and “Password”, outlined with rounded corners and containing placeholder texts.
+Forgot Password Link: “Forgot your password?” in small light purple font below the password field.
+Submit Button: A rectangular button in darker purple with “SUBMIT” in capital white letters.
+The interface has a glossy appearance due to light reflections, giving it a modern and polished look. The design is user-friendly, with clearly defined fields and a straightforward layout that guides the user through the login process. The color palette is visually appealing, with the use of white text to ensure readability against the darker backgrounds. Overall, the design prioritizes clarity and ease of use while maintaining an attractive aesthetic.

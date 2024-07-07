@@ -1,0 +1,6 @@
+Title: Sign-Up
+Text: Form Background: The form is in a light grey color with a white background.
+Form Fields: The form has three fields: email, password, and confirm password.
+Sign-up Button: The form also has a blue button that reads “Sign up for free!”.
+Font: The form is in a sans-serif font with black text.
+Form Placement: The form is centered in the image.

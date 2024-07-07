@@ -1,0 +1,6 @@
+Title: Sign up Screen
+Text: sign up form: "In the sign-up form, there are three input fields:
+The first input field has a placeholder 'E-mail' in light gray color, and below it, there is the text 'salem.cat@sabrina.com' in black. Below the text, there is a light gray horizontal line.
+The second input field has a light gray color placeholder for 'Password,' and below it, there are six orange dots. Below the dots, there is a light gray horizontal line.
+The third input field has a placeholder 'Repeat Password,' and below it, there are six orange dots. Below the dots, there is a light gray horizontal line.
+Below these input fields, there is a 'Sign Up' button with an orange background and white text. To the right of the 'Sign Up' button, there is text in light gray color that says 'Terms & Conditions,' and below it, there is a horizontal line.

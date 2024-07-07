@@ -1,0 +1,11 @@
+Title: Sign up screen
+Text: overall layout: overall image consists of single sign up layout, which consist of form in the middle and whole screen has background color of varying shades of black
+form: In the centre part, there is a sign-up form. The background colour of the form is white. All the items inside form is aligned horizontally. form has vertical border colored with varying shades of red with very large width.
+forms starts with heading text "sign up"
+Following the red horizontal line, there are three input fields and a button:
+In the first input field, there is a placeholder text that says "Enter your E-mail here" and this placeholder text is in varying shades of grey. Below the placeholder text, there is horizontal line with varying shades of red.
+In the second input field, there is a placeholder text that says "Enter a Password" and this placeholder text is in varying shades of grey. Below the placeholder text, there is horizontal line with varying shades of red.
+In the third input field, there is a placeholder text that says "Confirm your Password" and this placeholder text is in varying shades of grey. Below the placeholder text, there is horizontal line with varying shades of red.
+Below that, there is a sign up button with text "SIGN UP" with color white, button has background color of varying shades of red
+Following that,
+Below that, there is a text "Already have an account? ", just after this text there is an Text Underlined button with text "Login"

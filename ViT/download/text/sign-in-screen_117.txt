@@ -1,0 +1,5 @@
+Title: sign in screen
+Text: Overall Layout: The image prominently features a login screen for an app, set against a blurred background image of a crowd at a concert. The background is predominantly blue in color.
+Login Screen: The login screen is white and located in the center of the image. It has a camera logo at the top, indicating that the app may be related to photography or social media.
+Form Fields: The form on the login screen includes two text fields - one for the ‘Username’ and the other for the ‘Password’. The text in these fields is ‘Oliver Queen123’ and ‘Password’ respectively.
+Buttons: Below the text fields, there are two buttons. The first button is for logging in with Facebook and the second button is for logging in with Google. Both buttons have white text, a transparent background, and a white border.

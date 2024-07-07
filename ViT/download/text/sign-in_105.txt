@@ -1,0 +1,5 @@
+Title: sign in
+Text: Pop-up Window: The pop-up window has a white background with a green border. It’s designed to attract the user’s attention and encourage them to join the community.
+Form Fields: The form within the pop-up window has two text fields for the user to enter their email and password. This is a common method for registering or signing on a website.
+Buttons: There are two buttons in the pop-up window. One is a “CONTINUE” button, which likely submits the form. The other is a “Log in with Facebook” button, which suggests that the website offers the convenience of using Facebook credentials for logging in.
+Additional Link: Below the buttons, there is a link for users who already have an account to log in. This is a common feature in sign-up forms, providing an option for returning users to access their accounts.

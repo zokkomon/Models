@@ -1,0 +1,3 @@
+Title: sign Up
+Text: App Interface: The app is in the process of booking a taxi. It is asking for the user’s name, username, car type, and ID. The app has a blue and white color scheme and a “Next” button at the bottom.
+Background: The background of the app is a photo of a busy city street with a yellow taxi in the foreground. This gives the user a sense of the service they are about to use.

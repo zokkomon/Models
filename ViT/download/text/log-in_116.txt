@@ -1,0 +1,7 @@
+Title: Log in
+Text: Background: The background of the screen is dark purple, which gives it a modern and stylish look.
+Logo: The logo is a white cube with a smaller cube inside it, representing the “ubox” brand.
+Login Form: The login form has fields for a username and password. This is a common method for logging into a app.
+Keep Me Signed In: There is a checkbox option to “Keep me signed in”. This feature allows users to stay logged in even after they close the website or app, providing a convenient user experience.
+Social Media Login: There is an option to log in with Facebook. This feature allows users to log in quickly using their existing Facebook credentials.
+Forgot Password Link: There is a link to reset the password. This is a standard feature on login pages, providing users with a way to recover their account if they forget their password

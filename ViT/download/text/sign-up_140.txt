@@ -1,0 +1,8 @@
+Title: Sign Up
+Text: overall layout: overall image consists of single sign up layout, which consist of form in the middle and whole screen has background and background is divided into four section, top-left and bottom-right is coloured light blue and top-right and bottom-left section is colour in yellow.
+form: In the centre part, forms background color is light grey and form contains a white contanier which contains form items. There is Sign Up button attached to the container 's bottom part centred horizontally. Signu up button 's text color is white and background color is blue
+Inside container, there are three input fields vertically in the container:
+In the first input field, there is text that says "John Do" and this text is in varying shades of blue. Below text, there is horizontal line with varying shades of blue.
+In the first input field, there is placeholder text that says "Email" and this placeholder is in varying shades of light grey. Below text, there is horizontal line with varying shades of blue.
+In the first input field, there is placeholder text that says "Password" and this placeholder is in varying shades of light grey. Below text, there is horizontal line with varying shades of blue.
+Below Container, following a line break there is a text "Already have an account? ", just after this text there is an Tex button with text "SIGN IN"

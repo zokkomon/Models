@@ -1,0 +1,38 @@
+Title: Aroma Login Screen
+Text: Title: aroma Login Screen
+overall layout: There are two layouts in the login screen. The first layout has different colors and designs, while the second layout contains a login page.
+first layout: At the top, there is a pink triangle.
+On the right side, there is a yellow circle and a yellow random shape.
+On the left side, there is a gray triangle and a yellow random shape.
+At the bottom, there is a pink triangle, a gray circle, and a yellow square.
+In the second layout: On the left side there is a login form. On the right side there is a leaf image.In between them, there is a play icon with red color, and inside the play icon, there is a white triangle.
+In the form:
+The form is white in color.
+At the top left, there is the Aroma logo.
+Below it, there is the text "We are Aroma."
+Underneath, there is the text "Welcome back. Please login to your account."
+After that, there are two input fields that are stacked on top of each other.
+The first input field contains the email address, and below it, there is the text "desdivj@gmail.com." The top and bottom borders of this input field have gray shades, while the left border is red.
+The second input field contains the password, and it shows 13 black small dots. The borders of this input field also have gray shades.
+Following the input fields, there is a small box on the left.
+On the right side of the box, there is the text "Remember me."
+On the right side of the Remember Me text, there is the text "Forgot Password."
+After that, there is a login button.
+The login button is black in color, and the text on it is white.
+To the right of the login button, there is a "Sign Up" button.
+The Sign Up button is transparent in color, and both the border and text are gray shades.
+At the very bottom, there is the text "By signing up, you agree to Aroma's Terms and Conditions & Privacy Policy."
+In the leaf image:
+The image's color is dark green.
+Inside the image, there is a top menu bar.
+The menu bar contains buttons for "About Us," "Showcase," "Letters," "Contact," and "Blog."
+The text color of these buttons is white.
+At the center of the image, there is a box with shades of white color.
+Inside the box, at the top left, there is a white dot.
+In the center of the box, there is the Aroma logo.
+The logo's color is white.
+There are two yellow-colored elements above the logo.
+At the bottom right of the image, there are three small white lines.
+At the bottom left of the image, there are previous and next buttons.
+The previous button has a white border and white text.
+The next button has shades of white color, and the text color is white.

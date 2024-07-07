@@ -1,0 +1,11 @@
+Title: sign-in and sign-up page
+Text: The image is a login screen for a website or app.
+Background: The background is white with black text, providing a clean and minimalistic look.
+Layout: The login screen is divided into two sections, with the left featuring a photo of a person whose face is blurred outand above this person written sign in to continue REHTREW in white color and not you is yellow color, and the right displaying a login form.
+Login Form: The form has a yellow background, which stands out against the white backdrop.
+Title: “Biometric Keystrokes” is the title of the form, written in black text.
+Keyboard Visualization: Below the title, there’s a depiction of a keyboard with yellow circles on the keys, indicating the biometric input required.
+Login Button: The login button is also yellow with black text, maintaining the color scheme.
+Font: The font used is sans-serif, known for its modern and readable style.
+Remember Me Option: The form includes a “Remember Me” checkbox with “Yes” and “No” buttons for user convenience.
+The design suggests a focus on biometric security for user authentication, with a straightforward and user-friendly interface.

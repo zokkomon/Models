@@ -1,0 +1,8 @@
+Title: login screen
+Text: The image is a login page for a website or app.
+Background: The background features a gradient of purple and blue, creating a dynamic and modern visual effect.
+Header: There’s a dark purple header at the top with options to “LOGIN WITH FACEBOOK” with logo of facebook and “LOGIN WITH TWITTER” with twitter in white font.
+Text Fields: Below the header are two text fields for email and password. These fields have a dark purple background and white text.
+Login Button: A yellow button with the text “Login” in green font is placed below the text fields, serving as the primary call to action.
+New Account Button: At the bottom of the page, there’s a yellow button with “Create New Account” in black font, indicating an alternative action for new users.
+The design uses a combination of bold colors and clear typography to guide users through the login process, with social media login options for added convenience. The color styles, font choices, and content placement all contribute to a user-friendly experience.

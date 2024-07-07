@@ -1,0 +1,5 @@
+Title: Signup screen
+Text: Overall, the image features an iPhone-framed mobile screen at the center, with a signup screen displayed on it. The image has a gray background.
+The mobile frame is white in color and has a camera and microphone on top.
+The signup screen showcases a background image of a blue ocean, seamlessly blending with the blue sky.
+On the signup screen, the text input fields are arranged from the top of the screen, each on a separate line. These fields include "NAME," "EMAIL," "PASSWORD," and "CONFIRM PASSWORD." At the bottom of the screen, there is an outlined button labeled "CONTINUE." Both the outline button and text input fields have a white border and white text color.

@@ -1,0 +1,6 @@
+Title: Register-Form
+Text: Form Background: The form is in a light blue color with a white background.
+Form Fields: The form has fields for first name, last name, email, password, and a text area.
+Placeholder Text: The text area has a placeholder text that reads “this textarea is just for test so you can see the placeholder working on textarea as well”.
+Send Button: The form has a send button at the bottom.
+Font: The font is a sans-serif font in a dark gray color

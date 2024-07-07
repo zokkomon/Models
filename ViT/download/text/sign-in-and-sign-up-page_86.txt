@@ -1,0 +1,9 @@
+Title: sign-in and sign-up page
+Text: The image appears to be a graphic design of a mobile app’s login and sign-up screen.
+Background: The background features a gradient of purple and blue colors, creating a vibrant and modern look.
+Layout: There are two main sections—sign-in on the left and sign-up on the right.
+Text Fields: Both screens have white text fields for entering user information such as email and password.
+Buttons: The sign-in and sign-up actions are highlighted with green buttons.
+Font: The text is displayed in a sans-serif typeface, which is modern and readable, with the font color being white for contrast against the gradient background.
+Logo: The app’s logo is positioned in the bottom left corner and consists of a white “PSD” with a green arrow pointing downwards, suggesting a download or progress action.
+This design is likely used for a mobile application where users can either log in to their existing account or create a new one. The use of color, font, and layout creates a user-friendly interface that is both aesthetically pleasing and functional.

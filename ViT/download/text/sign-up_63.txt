@@ -1,0 +1,6 @@
+Title: sign-up
+Text: Title: The form is titled “Register open snippets”, displayed in black text at the top center in a standard, sans-serif font.
+Input Fields: There are four white rectangular input fields with gray borders for entering “Name”, “Email”, “Password”, and to confirm the password, labeled as “confirm-password”. The labels are inside the input fields in a light gray, sans-serif font.
+Buttons and Links: At the bottom of the form, there is a red rectangular button with rounded corners labeled “Create Account” in white, sans-serif font. Above this button to its left is a smaller text link for “Login” in black color.
+Color and Font Styles: The image uses a simple and clean color scheme with white, black, red, and gray as the primary colors. The font used is modern and easy to read, with important headings in bold for emphasis.
+Placement: The title is placed at the buttom, followed by the input fields. The “Create Account” button and “Login” link are placed at the bottom.

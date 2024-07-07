@@ -1,0 +1,7 @@
+Title: Sign-Up
+Text: Page Layout: The page is divided into two sections.
+Left Section: The left section is for signing up with a username, email, password and Retype Password.
+Right Section: The right section is for signing up with a social network.
+Background: The background of the page is a photo of a landscape with mountains and fields.
+Color Scheme: The color scheme is mainly blue and white, with orange and red accents.
+Font: The font is sans-serif and the text is black.

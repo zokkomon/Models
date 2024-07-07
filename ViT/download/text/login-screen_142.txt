@@ -1,0 +1,4 @@
+Title: Login Screen
+Text: overall layout: The main image contains two layouts. In the first layout, there is an image of a room, and in the center of the image, there is a login screen.
+first layout image: In a hall, there are two sofas, a table with a flower on top, and in the center, there is a login form.
+login form: The background color of the login form is white. At the top of it, there is an image of a house. The house image has a gray shade. There are two input fields. The first input field has the placeholder "Username" and below it, there is a green horizontal line. The second input field has the placeholder "Password" and below it, there is a gray shade horizontal line. Below these input fields, there is the text "Forget your password?" and below it, there is a gray shade horizontal line. In the last part of the form, there is a login button. The button has a green background and the text color is white.

@@ -1,0 +1,7 @@
+Title: join us
+Text: Background: The background is a dark purple with white dots, giving the impression of a starry night sky.
+Login Form: The login form is on a white card with rounded edges. It has three fields for the user to fill in: Name, Email, and Password.
+Join Us Button: Below the form, there is a purple button that reads “Join Us”.
+Logo: The logo for the website or app is at the top of the card. It is a purple square with a white Chinese character that translates to “wish”.
+Telescope Icon: There is also a small purple telescope at the bottom right of the card.
+Overall Impression: This design is quite visually appealing and user-friendly. The starry night sky background gives a sense of exploration and discovery, which is further emphasized by the telescope icon. The “Join Us” button is inviting and suggests a community aspect to the website or app. The logo, a Chinese character meaning “wish”, implies that this platform might be a place where users can fulfill their wishes or aspirations.

@@ -1,0 +1,12 @@
+Title: Signup Screen
+Text: Overall, the image features an screen frame at the center, with a signup screen displayed on it. The image has a backgrond image circular gradient in color light blue.
+The signup screen showcases a light them and primary color as blue. and signup frame backround color is dark blue
+signup screen starts with 'close' icon button in white at the aligned top end of the frame
+followed by next line has text "New user account" in white
+followed a white background container which contains input fields "NAME" "EMAIL" AND "PASSWORD".
+followed by next line contains underlined text field with gray label "NAME" and black colored input value "Anne Green" and input has a trailling icon 'close' in color gray
+followed by next line contains underlined text field with gray label "EMAIL" and black colored input value "anneg@gmail.com" and input has a trailling icon 'close' in color gray
+followed by next line contains underlined text field with gray label "PASSWORD" and black input value of dotted masked password, and input has tralling icon 'close' in color gray.
+after this white container there is a row with two button with end alignment
+text button labeled "CANCEL" with white text color
+text button labeled "SIGN UP" with white text color

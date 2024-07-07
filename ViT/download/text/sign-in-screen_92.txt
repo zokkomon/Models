@@ -1,0 +1,3 @@
+Title: sign in screen
+Text: overall layout: The image has two layouts. The first layout is in a pale blue color, and the 'Sign In' form is centered in the image.
+form: The background color of the form is blue. At the top, there is the 'Sign Up' text, followed by other text elements on either side. Below that, there are two input fields: the first one is for the 'Email Address,' which includes a mail icon, and the second one is for the 'Password,' which includes a lock icon. Beneath the input fields, there is a 'Keep Me Signed In' text. On the side, there's a 'Forgot Password?' text. At the very bottom, there is a 'Sign In' button in navy blue.

@@ -1,0 +1,4 @@
+Title: Sign in Screen
+Text: overall layout: The Sign in screen has two layouts The first layout is in a yellow color background , and the 2nd one is card and card color dark brown and in side the card 2 "Placeholder" form is centered in the card and card are center in the background color.
+form: The background color of the form is yellow. At the center, there are two input fields: the first one is for the "Email Address" input color very light brown and the second one is for the "Password" input color very light brown below the input fields, there is a "Sign In" button On the center, in dark brown.
+below the sign In button using a or then below the or there is a three button "green" "Yellow" "Orange" and last one is below the three button using a text "Help".

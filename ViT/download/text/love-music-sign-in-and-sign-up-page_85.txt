@@ -1,0 +1,15 @@
+Title: love music sign-in and sign-up page
+Text: The image features two mobile app interface designs for a music app, displayed on a light blue background.
+Left Interface (Login Screen):
+Logo: Dark blue “V” shaped logo at the top.
+Title: “Love music” in bold, dark blue font.
+Tagline: “Here, you are not alone.” in a lighter shade of blue and smaller font size.
+Input Fields: “Username” and “Password” fields with light grey icons on the left.
+Forgot Password: “Forget password?” in small, light blue font below the password field.
+Sign In Button: Solid blue button below the input fields.
+Sign Up Text: “Sign up” in small, light blue font underneath the button.
+Version Info: “1.1.1_20161204_Love music” in small grey text at the bottom.
+Right Interface (Signup Screen):
+Input Fields: Includes “Username”, “Password”, and “Repeat password” fields. An error icon next to the username field indicates an issue.
+Sign Up Button: Solid blue button below the input fields.
+The design is clean and modern, with a consistent color scheme of dark and light blues complemented by grey accents. The use of bold and capitalized fonts for titles and buttons emphasizes the key actions for the user. The interfaces are well-organized, with each element clearly defined and easy to interact with. The version information at the bottom of the left interface suggests the design is for a specific release of the app.

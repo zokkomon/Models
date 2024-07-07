@@ -1,0 +1,5 @@
+Title: Sign Up Screen
+Text: Overall Layout: The image consists of a sign-up form on a light blue background. The form is in a white box.
+Form: The form has two input fields. The first input field is for ‘e-mail,’ and the second input field is for ‘Password.’ Below each input, there is a gray-colored line.
+There is one button in the form. The button is for ‘Sign Up for Invite Now,’ and it has blue text, a transparent background, and a blue border.
+Above the form, there is the text ‘Sign Up’ in blue color. Below the form, there is the text ‘You want to fill out this form’ in gray color.

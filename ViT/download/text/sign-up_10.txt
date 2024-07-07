@@ -1,0 +1,4 @@
+Title: sign up
+Text: Title: The form is titled "Register", displayed in white, cursive font against a dark grey background at the top center.
+Input Fields: There are three lighter grey rectangular input fields with white labels for entering "Username", "Password", and "E-Mail Address". The labels are inside the input fields in a light gray, sans-serif font.
+Buttons: At the bottom of the form, there’s a green rectangular button with rounded corners labeled “Register” in white capital letters.

@@ -1,0 +1,11 @@
+Title: Sign Up Page
+Text: overall layout:
+forms starts with heading text "Welcome"and some paragraph overall image consists of single sign up layout, which consist of form in the middle and whole screen has background color of varying shades of dark blue
+form: In the centre part, there is a Welcome text and some paragraph . The background colour of the form is white. All the items inside form is aligned horizontally. form has vertical border colored with varying shades of white and opacity is very low with very large width.
+Following the white horizontal line, there are three input fields and a button:
+In the 1st input field, there is a one email icon and placeholder text that says "E-mail" and this placeholder text is in varying shades of white. Below the placeholder text, there is horizontal line with varying shades of white but low opacity.
+In the 2nd input field, there is a one password icon and placeholder text that says "password" and password must be 8 characters and this placeholder text is in varying shades of white. Below the placeholder text, there is horizontal line with varying shades of white but low opacity.
+In the 3rd input field, there is a one user icon and placeholder text that says "username" and this placeholder text is in varying shades of white. Below the placeholder text, there is horizontal line with varying shades of white but low opacity.
+Below that, there ia a terms and conditions check box.
+Below that, there is a sign up button with text "SIGN UP" with color white, button has background color of varying shades of orange Following that,
+Below that, there is a one more sign up with facebook button with icon and text "SIGN UP with Facebook" with color orange, button has background color of varying shades of dark blue and border color orange Following that,

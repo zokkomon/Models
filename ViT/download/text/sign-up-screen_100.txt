@@ -1,0 +1,21 @@
+Title: sign up screen
+Text: overall layout:In the background of the image, there is an image of the night sky, and above the image, there is a black color linear gradient. In the top left corner of the image, there is a menu icon in jungle green color. At the top right corner, there are three icons, all in jungle green color. The first icon is different, the second icon represents a user, and the third icon represents shopping. In the center of the image, there is a sign-up form.
+form:At the top of the form, there is the text 'Discover the Magic' in white color, and below it, there is the text 'Sign Up' in jungle green color. Following this, there are four input fields arranged in two rows. Below the input fields, there is the text 'I would like to know more about' in white color.
+Following this text, there are three options in a row. The first option is 'Dark Magic,' the second option is 'Healing Magic,' and the third option is 'Summonings.' The option checkmark is round, the first option is checked, and the round and text color are jungle green.
+Below the options, there is the 'Sign Me Up' button. The button has a different icon in jungle green color, and the button text color and border color are also jungle green.
+form input: First input:
+Placeholder: "First & Last Name"
+Border line color: Jungle Green
+On focus, placeholder color and line color change to white.
+Second input:
+Placeholder: "Email"
+Border line color: Jungle Green
+On focus, placeholder color and line color change to white.
+Third input:
+Placeholder: "Password"
+Border line color: Jungle Green
+On focus, placeholder color and line color change to white.
+Fourth input:
+Placeholder: "Retype Password"
+Border line color: Jungle Green
+On focus, placeholder color and line color change to white.

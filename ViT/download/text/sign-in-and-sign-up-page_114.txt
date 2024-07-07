@@ -1,0 +1,11 @@
+Title: sign-in and sign-up page
+Text: Background: The backdrop is black with white lines that give the impression of a topographical map.
+Banner: There’s a yellow banner in the top left corner with the text “Sign in to continue” in white.
+User Identification: Below the banner, there’s a yellow box with “Not you?” in white, suggesting a user verification step.
+Picture: The center features a blurred-out picture, indicating where the human face image would typically be displayed in right corner of black background.
+Login Instructions: A yellow box below the profile picture contains the instruction “Type the sentence below to login” in white.
+Authentication Box: The “Biometric keystrokes” are presented in a yellow box, which seems to be part of the authentication process.
+Input Fields: Below, there’s a gray box labeled “Authentication pattern” with columns for “Time” in yellow color, “Force” in grey color.
+Login Button: At the bottom, a yellow button with “Login” written in black serves as the call to action.
+Options: In the bottom right corner, the options “No” are written in yellow and “Yes” are written in white, likely related to the “Remember me” function.
+The design appears to be focused on security, utilizing biometric keystroke patterns for authentication. The color scheme of yellow, black, and gray, along with the sans-serif font, creates a modern and professional look. The content is well-organized, with clear indications for user interaction.

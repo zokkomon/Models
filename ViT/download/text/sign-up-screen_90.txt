@@ -1,0 +1,11 @@
+Title: Sign up screen
+Text: Overall, the image features an screen frame at the center, with a signup screen displayed on it. The image has backgrond color light blue.
+The signup screen showcases a light theme and signup frame backround color white
+signup screen divier into two sections left and right, left section contains a illustration image and right side contains sigup form.
+signup form starts with heading "Save you account now" center horizontally in form, and this heading has bold font weight,
+followed by next line contains description "Get unlimited typeforms, questions, and responses. Free forever."
+followed by next line contains underlined text field with leading icon of user and placeholder "Name or nickname"
+followed by next line contains underlined text field with leading icon of email and placeholder "Email"
+followed by next line cotanis underlined text field with leading icon of lock and placeholder "Password"
+followed by next line contains contained submit button with background light blue and white text "Sign up" follwed by chevron right arrow icon right to text. button is positioned center horizontally in the form
+followed by next line contains a row with two item on center horizontally form. first text "Alredy have an account?" in gray, followed by clickable text "Login" in orange

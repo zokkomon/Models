@@ -1,0 +1,4 @@
+Title: Sign up screen
+Text: Overall, the image features an screen frame at the center, with a signup screen displayed on it. The image has a background image of blur party image.
+The signup screen showcase a red background and primary color white.
+The signup screen is starting. On the left side, there is a back arrow symbol, and in the center, it says 'Sign Up.' Below that, 'Login' is written, and beneath the login, there is an input field with the placeholder 'evgen kuhto.' Below that, there is an email written, and beneath it, there is an input field with the placeholder 'evgen@daily001.co.' Below the email, there is a password written, and beneath it, there is an input field with the placeholder '*****.' Finally, at the bottom, there is a 'Create Account' button with a white background and red text.
